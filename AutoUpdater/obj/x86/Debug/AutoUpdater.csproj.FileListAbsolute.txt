@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AutoUpate\Out\Debug\AutoUpdater.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AutoUpate\Out\Debug\UpdateList.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AutoUpate\Out\Debug\AutoUpdater.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AutoUpate\Out\Debug\AutoUpdater.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AutoUpate\AutoUpdater\obj\x86\Debug\AutoUpdater.FrmUpdate.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AutoUpate\AutoUpdater\obj\x86\Debug\AutoUpdate.Utility.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AutoUpate\AutoUpdater\obj\x86\Debug\AutoUpdater.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AutoUpate\AutoUpdater\obj\x86\Debug\AutoUpdater.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AutoUpate\AutoUpdater\obj\x86\Debug\AutoUpdater.pdb

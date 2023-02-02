@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AutoUpdater>
+    <description>Application autoUpdate</description>
+    <Updater>
+        <Url>http://192.168.1.100/AliDataService/update/testUpdate/</Url>
+        <LastUpdateTime>2019-11-04</LastUpdateTime>
+        <UpdateContent>
+	        1.  解决电商订单拆分后赠品无法合并问题
+        </UpdateContent>
+    </Updater>
+    <Application applicationId="Main">
+        <EntryPoint>Main.exe</EntryPoint>
+        <Location>.</Location>
+        <Version>1.0.0.0</Version>
+    </Application>    
+    <Application applicationId="BLL">
+        <EntryPoint>BLL.dll</EntryPoint>
+        <Location>.</Location>
+        <Version>1.0.0.0</Version>
+    </Application>
+    <Application applicationId="DAL">
+        <EntryPoint>DAL.dll</EntryPoint>
+        <Location>.</Location>
+        <Version>1.0.0.0</Version>
+    </Application>
+    <Application applicationId="Publicinfo">
+        <EntryPoint>Publicinfo.dll</EntryPoint>
+        <Location>.</Location>
+        <Version>1.0.0.0</Version>
+    </Application>    
+    <Files>
+        <File Ver="1.0.0.0"  Name="Main.exe" />
+        <File Ver="1.0.0.0"  Name="BLL.dll" />       
+        <File Ver="1.0.0.0"  Name="DAL.dll"/>
+        <File Ver="1.0.0.0"  Name="Publicinfo.dll"/>       
+    </Files>
+</AutoUpdater>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "update", "update", "{BE7F008D-6C06-449E-BC19-8808E65C9779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdater", "AutoUpdater\AutoUpdater.csproj", "{4A635AF9-90B2-4AB6-A418-EAB10A712BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testAutoUpdate", "testAutoUpdate\testAutoUpdate.csproj", "{A643E71A-E34B-4855-9CD3-A67D3681C7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A635AF9-90B2-4AB6-A418-EAB10A712BA7}.Debug|x86.ActiveCfg = Debug|x86
+		{4A635AF9-90B2-4AB6-A418-EAB10A712BA7}.Debug|x86.Build.0 = Debug|x86
+		{4A635AF9-90B2-4AB6-A418-EAB10A712BA7}.Release|x86.ActiveCfg = Release|x86
+		{4A635AF9-90B2-4AB6-A418-EAB10A712BA7}.Release|x86.Build.0 = Release|x86
+		{A643E71A-E34B-4855-9CD3-A67D3681C7AE}.Debug|x86.ActiveCfg = Debug|x86
+		{A643E71A-E34B-4855-9CD3-A67D3681C7AE}.Debug|x86.Build.0 = Debug|x86
+		{A643E71A-E34B-4855-9CD3-A67D3681C7AE}.Release|x86.ActiveCfg = Release|x86
+		{A643E71A-E34B-4855-9CD3-A67D3681C7AE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4A635AF9-90B2-4AB6-A418-EAB10A712BA7} = {BE7F008D-6C06-449E-BC19-8808E65C9779}
+		{A643E71A-E34B-4855-9CD3-A67D3681C7AE} = {BE7F008D-6C06-449E-BC19-8808E65C9779}
+	EndGlobalSection
+EndGlobal
